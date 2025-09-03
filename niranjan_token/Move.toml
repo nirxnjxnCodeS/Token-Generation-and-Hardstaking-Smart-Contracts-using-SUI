@@ -1,0 +1,7 @@
+[package]
+name = "niranjan_token"
+edition = "2024"
+version = "0.0.1"
+
+[addresses]
+niranjan_token = "0x0"

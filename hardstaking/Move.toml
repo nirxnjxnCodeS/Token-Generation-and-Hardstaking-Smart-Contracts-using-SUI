@@ -1,0 +1,10 @@
+[package]
+name = "hardstaking"
+edition = "2024"
+version = "0.0.1"
+
+[addresses]
+hardstaking = "0x0"
+
+[dependencies]
+niranjan_token = { local = "../niranjan_token" }
